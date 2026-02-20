@@ -19,4 +19,4 @@ Sistema de Diálogos Dinâmicos: Integração com Ink.Runtime para suporte a esc
 
 - Ink Unity Integration: Para processamento de roteiros narrativos.
 
- Link de acesso: https://gyane001.github.io/Jogo-WEG---Treinamento/
+ Link de acesso: https://github.com/Gyane001/Jogo-Treinamento-de-integracao-de-colaboradores
