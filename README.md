@@ -1,4 +1,4 @@
-# Nome do Seu Jogo
+# Jogo de Integração de colaboradores
 
 Um serious game 2D desenvolvido na Unity utilizando a linguagem Ink para diálogos dinâmicos, e C# para a programação em si. O projeto foca em uma experiência imersiva na integração de novos colaboradores na empresa, com apoio de uma interface totalmente responsiva para múltiplas plataformas.
 
@@ -9,7 +9,7 @@ Sistema de Diálogos Dinâmicos: Integração com Ink.Runtime para suporte a esc
 
 - Interface Responsiva (Multi-plataforma): Layout adaptável para Android, WebGL e Desktop, incluindo tratamento de Safe Area para celulares com notch.
 
-- Sistema de Save/Load Desacoplado: Gerenciamento de persistência de dados separado da lógica de jogo, salvando o estado da narrativa (JSON do Ink) via PlayerPrefs.
+- Sistema de diálogo: Gerenciamento narrativa com sistema de opções e feedbacks visuais.
 
 - Transições de Cena: Sistema de fade-in/fade-out para navegação suave entre menus e gameplay.
 
